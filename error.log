@@ -1,2 +1,4 @@
 {"level":"info","message":"Listen on port 3000","service":"user-service"}
 {"level":"info","message":"Connected to the Database mongodb://localhost/cloth...","service":"user-service"}
+{"level":"info","message":"Listen on port 3000","service":"user-service"}
+{"level":"info","message":"Connected to the Database mongodb://localhost/cloth...","service":"user-service"}
