@@ -94,7 +94,6 @@ router.post('/cloth',validate,async (req,res)=>{
             }
         }
         num = num + 1
-        logger.log({level: 'info',message:num})
         const cloth = new Cloth({
             id:num,
             name:req.body.name,
